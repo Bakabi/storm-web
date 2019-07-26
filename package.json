@@ -1,0 +1,26 @@
+{
+  "name": "storm",
+  "version": "1.0.0",
+  "description": "Sistema de Gerenciamento de Produtos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bakabi/storm-web.git"
+  },
+  "keywords": [
+    "produtos",
+    "gerenciador",
+    "de",
+    "produtos",
+    "storm"
+  ],
+  "author": "Gabriela Araújo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bakabi/storm-web/issues"
+  },
+  "homepage": "https://github.com/Bakabi/storm-web#readme"
+}
