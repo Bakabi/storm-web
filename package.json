@@ -24,6 +24,8 @@
   },
   "homepage": "https://github.com/Bakabi/storm-web#readme",
   "dependencies": {
-    "bootstrap": "^4.3.1"
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "ladda": "^1.0.5"
   }
 }
